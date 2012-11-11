@@ -2,7 +2,7 @@
   "name": "HackMeWebAPIs",
   "description": "Hack me WebAPIS app",
   "type": "certified",
-  "launch_path": "/index.html",
+  "launch_path": "firefoxos-hackme2/index.html",
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
