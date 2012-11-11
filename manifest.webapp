@@ -8,7 +8,6 @@
     "url": "https://github.com/mozilla-b2g/gaia"
   },
   "permissions": {
-    "sms":{},
     "power":{}
   },
   "icons": {
