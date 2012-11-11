@@ -54,6 +54,7 @@ function installApp() {
   // GO GO GO, check: https://developer.mozilla.org/en-US/docs/Apps/Apps_JavaScript_API
   // TODO, check this and set correctly the full path to your manifest
   var manifestURL = window.location.protocol + '//' + window.location.hostname + 'firefoxos-hackme2/manifest.webapp';
+  console.log("manifest " + manifestURL);
   navigator.mozApps.install(manifestURL);
 }
 
