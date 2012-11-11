@@ -1,7 +1,6 @@
 {
   "name": "HackMeWebAPIs",
   "description": "Hack me WebAPIS app",
-  "type": "certified",
   "launch_path": "firefoxos-hackme2/index.html",
   "developer": {
     "name": "The Gaia Team",
